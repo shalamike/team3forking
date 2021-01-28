@@ -1,7 +1,13 @@
 this is a note
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is another note
 
 =======
 peter edit hello there
 >>>>>>> 3c7ca1577dcf47a5e34dfe1b2ef22750df20cd11
+=======
+hello
+peter edit hello there
+
+>>>>>>> 81f15f5ff7293385d763872771a31b19af4cccb0

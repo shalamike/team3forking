@@ -2,6 +2,7 @@ this is a note
 <<<<<<< HEAD
 <<<<<<< HEAD
 this is another note
+this is the new thursday note
 
 =======
 peter edit hello there
